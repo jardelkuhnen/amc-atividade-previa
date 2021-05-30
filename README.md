@@ -1,10 +1,14 @@
-# amcapp
+# Arquiteturas de Aplicações Mobile e Cloud-Native - (amcapp)
 
-A new Flutter project.
+App desenvolvido para entrega de atividade do MBA de Arquitetura de Software
+
+Aplicação para calculo de IMC.
+
+![alt text](https://github.com/jardelkuhnen/amc-atividade-previa/blob/master/web/images/screem.png?raw=true)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Para rodar a a aplicação, basta acessar o diretório do projeto e rodar ``flutter run``
 
 A few resources to get you started if this is your first Flutter project:
 

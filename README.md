@@ -1,4 +1,4 @@
-# Arquiteturas de Aplicações Mobile e Cloud-Native - (amcapp)
+# Arquiteturas de Aplicações Mobile e Cloud-Native - (amc)
 
 App desenvolvido para entrega de atividade do MBA de Arquitetura de Software
 
